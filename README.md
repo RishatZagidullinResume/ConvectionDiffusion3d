@@ -23,7 +23,7 @@ This is a 3D library for solving convection-diffusion equation. You can choose t
 * Here's the solution to the advection equation using finite volume method. We also add projections to see the solutions as well as keeping the constrained sphere:
 
 <p align="center" width="100%">
-    <img width="100%" src="/image.gif?raw=true"> 
+    <img width="80%" src="/image.gif?raw=true"> 
 </p>
 
 To implement the solver I used the following [paper](https://hal.inria.fr/hal-00939475/document).
