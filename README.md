@@ -16,10 +16,12 @@ This is a 3D library for solving convection-diffusion equation. You can choose t
 
 * Here's an example of the tetrahedralized computational domain:
 
-![data_0.jpg](/data_0.jpg)
+<p align="center" width="100%">
+    <img width="67%" src="/data_0.jpg"> 
+</p>
 
 * Here's the solution to the advection equation using finite volume method. We also add projections to see the solutions as well as keeping the constrained sphere:
 
 ![image.gif](/image.gif)
 
-
+To implement the solver I used the following [paper](https://hal.inria.fr/hal-00939475/document).
